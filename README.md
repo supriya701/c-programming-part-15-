@@ -1,0 +1,3 @@
+consider the following series are:
+1,1,2,3,4,9,8,27,16,81,32,243......
+this series is a mixture of two series-all the odd term in this series form a geometric series and all the even terms form yet another geometric series.Write a program to find the Nth term in the series.
